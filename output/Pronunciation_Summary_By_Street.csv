@@ -1,0 +1,2 @@
+Street,N_Comparisons,Mean_DTW,Mean_Duration_Diff,Mean_Pitch_Diff,Mean_Energy_Diff,Mean_PAS,Worst_PAS,Primary_Error_Type,Quality
+Mgaga_Road,7,150.57,0.61,94.23,0.02,51.7,48.29,Possible Phoneme Substitution; Stress/Tone Error,Poor

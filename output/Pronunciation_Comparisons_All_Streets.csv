@@ -1,0 +1,8 @@
+Street,Contributor,Status,Error_Type,Details,DTW,Duration_Diff,Pitch_Diff,Energy_Diff,PAS,Quality
+Mgaga_Road,gt1.wav,OK,Possible Phoneme Substitution; Stress/Tone Error,,133.29,0.54,89.83,0.0347,52.09,Poor
+Mgaga_Road,gt2.wav,OK,Possible Phoneme Substitution; Stress/Tone Error,,154.26,0.86,135.04,0.0151,48.29,Poor
+Mgaga_Road,gt3.wav,OK,Possible Phoneme Substitution; Stress/Tone Error,,193.96,0.19,139.77,0.0004,50.84,Poor
+Mgaga_Road,gt4.wav,OK,Possible Phoneme Substitution; Stress/Tone Error,,138.47,0.19,71.78,0.0029,54.9,Poor
+Mgaga_Road,gt5.wav,OK,Possible Phoneme Substitution,,185.66,0.93,1.56,0.0379,55.82,Poor
+Mgaga_Road,gt6.wav,OK,Possible Phoneme Substitution; Stress/Tone Error,,154.26,0.86,135.04,0.0151,48.29,Poor
+Mgaga_Road,gt7.wav,OK,Possible Phoneme Substitution; Stress/Tone Error,,94.11,0.7,86.59,0.0334,51.65,Poor
