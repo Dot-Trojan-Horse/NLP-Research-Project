@@ -1,0 +1,12 @@
+﻿metric,value
+xml_recordings_parsed,41871
+accepted_recordings,41871
+train_recordings,37837
+validation_recordings,4034
+unique_speakers,202
+validation_speakers,20
+rejected_missing_audio,0
+rejected_g2p,0
+target_phone_inventory,40
+seed,42
+validation_fraction,0.1

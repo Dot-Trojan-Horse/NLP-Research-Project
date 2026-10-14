@@ -1,0 +1,34 @@
+﻿Street,Native recordings,Native successful,Apple Maps recordings,Apple Maps successful,Total recordings,Successful recognitions,Missing audio,Empty recognitions,Recognition errors,Ground-truth status
+Baphelabantu Street,7,7,1,1,8,8,0,0,0,requires_native_validation
+Chakide Road,5,5,1,1,6,6,0,0,0,requires_native_validation
+Dlangisa Avenue,5,5,1,1,6,6,0,0,0,requires_native_validation
+Emthethweni Road,4,4,1,1,5,5,0,0,0,requires_native_validation
+Ezalukazini Avenue,5,5,1,1,6,6,0,0,0,requires_native_validation
+Imvubu Lane,6,6,1,1,7,7,0,0,0,requires_native_validation
+Isandlwana Street,4,4,1,1,5,5,0,0,0,requires_native_validation
+Khuzimpi Shezi Road,5,5,1,1,6,6,0,0,0,requires_native_validation
+Mabele Road,7,7,1,1,8,8,0,0,0,requires_native_validation
+Mandlendlovu Road,7,7,1,1,8,8,0,0,0,requires_native_validation
+Mbokodo Road,5,5,1,1,6,6,0,0,0,requires_native_validation
+Mbonini Road,7,7,1,1,8,8,0,0,0,requires_native_validation
+Mgaga Road,7,7,1,1,8,8,0,0,0,requires_native_validation
+Mnyezane Road,5,5,1,1,6,6,0,0,0,requires_native_validation
+Mpevu Road,8,8,1,1,9,9,0,0,0,requires_native_validation
+Msobho Road,7,7,1,1,8,8,0,0,0,requires_native_validation
+Ngilosi Road,3,3,1,1,4,4,0,0,0,requires_native_validation
+Ngqwele Road,8,8,1,1,9,9,0,0,0,requires_native_validation
+Njokweni Crescent,5,5,1,1,6,6,0,0,0,requires_native_validation
+Ntunjambili Street,3,3,1,1,4,4,0,0,0,requires_native_validation
+Phezukomkhono Lane,8,8,1,1,9,9,0,0,0,requires_native_validation
+Phila Ndwandwe Road,6,6,1,1,7,7,0,0,0,requires_native_validation
+Qhude Road,6,6,1,1,7,7,0,0,0,requires_native_validation
+Sankotshe Avenue,5,5,1,1,6,6,0,0,0,requires_native_validation
+Sga Ngcobo Road,2,2,1,1,3,3,0,0,0,requires_native_validation
+Sigonyela Road,8,8,1,1,9,9,0,0,0,requires_native_validation
+Sinqandu Road,4,4,1,1,5,5,0,0,0,requires_native_validation
+Umdoni Street,6,6,1,1,7,7,0,0,0,requires_native_validation
+Umgeni Road,9,9,1,1,10,10,0,0,0,requires_native_validation
+Umsimbithi Road,3,3,1,1,4,4,0,0,0,requires_native_validation
+Umzimvubu Road,8,8,1,1,9,9,0,0,0,requires_native_validation
+Zigqaje Road,7,7,1,1,8,8,0,0,0,requires_native_validation
+Zimbali Road,6,6,1,1,7,7,0,0,0,requires_native_validation

@@ -1,0 +1,225 @@
+﻿street,recording_type,recording,validation_status,reference_phones,status,recognized_phones,phone_count
+Baphelabantu_Street,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Baphelabantu_Street\gt1.wav,requires_native_validation,,ok,m a pʰ ɛ l a ɓ a n tʼ u s tʰ r a s a,17
+Baphelabantu_Street,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Baphelabantu_Street\gt2.wav,requires_native_validation,,ok,m a pʰ ɛ l a ɓ a n tʼ u s ǀ r ɛ s,16
+Baphelabantu_Street,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Baphelabantu_Street\gt3.wav,requires_native_validation,,ok,ɓ a pʰ ɛ l a k a n tʼ w u s tʰ r i tʼ i,18
+Baphelabantu_Street,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Baphelabantu_Street\gt4.wav,requires_native_validation,,ok,m a pʰ ɛ l a ɓ a n tʼ u s tʰ r i n s a,18
+Baphelabantu_Street,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Baphelabantu_Street\gt5.wav,requires_native_validation,,ok,ɓ a pʰ ɛ l a ɓ a n tʼ u s r i tʼ ɛ,16
+Baphelabantu_Street,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Baphelabantu_Street\gt6.wav,requires_native_validation,,ok,m a pʰ ɛ l a k ɓ a n tʼ u s tʰ r ɛ tʼ ɛ,18
+Baphelabantu_Street,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Baphelabantu_Street\gt7.wav,requires_native_validation,,ok,ɓ a ɓ l a ɓ a l d i s tʼ r a tʼ i,16
+Baphelabantu_Street,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Baphelabantu_Street.wav,requires_native_validation,,ok,ɓ a f ɛ ɓ a n d͡ʒ ɛ s r ɛ tʰ,13
+Chakide_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Chakide_Road\gt1.wav,requires_native_validation,,ok,a k a d ɛ r ɔ d,8
+Chakide_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Chakide_Road\gt2.wav,requires_native_validation,,ok,pʰ a k ɛ d ɛ r ɛ d a,10
+Chakide_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Chakide_Road\gt3.wav,requires_native_validation,,ok,pʰ a k i k ɛ r ɔ tʰ,9
+Chakide_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Chakide_Road\gt4.wav,requires_native_validation,,ok,ǀ a k i l ɛ s ɓ r ɔ n ɮ a,13
+Chakide_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Chakide_Road\gt6.wav,requires_native_validation,,ok,ǀ w a k i tʼ ɛ r ɔ tʰ a,11
+Chakide_Road,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Chakide_Road.wav,requires_native_validation,,ok,d͡ʒ a kʰ a d r u d,8
+Dlangisa_Avenue,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Dlangisa_Avenue\gt1.wav,requires_native_validation,,ok,l a ŋ ɡ i s a ɛ ɓ ɛ n i,12
+Dlangisa_Avenue,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Dlangisa_Avenue\gt2.wav,requires_native_validation,,ok,ɮ a n d i s a v i n,10
+Dlangisa_Avenue,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Dlangisa_Avenue\gt3.wav,requires_native_validation,,ok,l a ŋ ɡ i s a ɛ ɓ ɛ ɲ i s,13
+Dlangisa_Avenue,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Dlangisa_Avenue\gt4.wav,requires_native_validation,,ok,i ɮ a ŋ ɡ i s a ɓ i ɲ u,12
+Dlangisa_Avenue,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Dlangisa_Avenue\gt5.wav,requires_native_validation,,ok,i ɬ a ŋ ɡ i s a r i ɲ u,12
+Dlangisa_Avenue,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Dlangisa_Avenue.wav,requires_native_validation,,ok,l a ŋ ɡ ɛ s ɛ a ɓ i,10
+Emthethweni_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Emthethweni_Road\gt1.wav,requires_native_validation,,ok,ɛ m tʰ ɛ tʰ w ɛ n i ɛ r ɔ l d i,15
+Emthethweni_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Emthethweni_Road\gt2.wav,requires_native_validation,,ok,ɛ m tʰ ɛ ǀ w ɛ n i ɔ l d,12
+Emthethweni_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Emthethweni_Road\gt3.wav,requires_native_validation,,ok,ɛ m tʰ ɛ tʰ w ɛ n i w ɛ l ɛ,13
+Emthethweni_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Emthethweni_Road\gt4.wav,requires_native_validation,,ok,i m tʰ ɛ tʰ w ɛ n i r w ɛ d,13
+Emthethweni_Road,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Emthethweni_Road.wav,requires_native_validation,,ok,m tʼ ɛ tʰ w ɛ n i v a tʰ,11
+Ezalukazini_Avenue,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Ezalukazini_Avenue\gt1.wav,requires_native_validation,,ok,ɛ z a l ɔ k a z ɛ n i a z ɛ ɲ ɔ,16
+Ezalukazini_Avenue,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Ezalukazini_Avenue\gt2.wav,requires_native_validation,,ok,ɛ v a l u k a z i n i ɛ ɓ i ŋ ɲ i w ɔ,19
+Ezalukazini_Avenue,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Ezalukazini_Avenue\gt3.wav,requires_native_validation,,ok,ɛ z a l u k a z i n i ɛ ɓ ɛ ɲ ɛ w,17
+Ezalukazini_Avenue,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Ezalukazini_Avenue\gt4.wav,requires_native_validation,,ok,ɛ z a l u k a z i m i a v i n i s i,18
+Ezalukazini_Avenue,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Ezalukazini_Avenue\gt5.wav,requires_native_validation,,ok,i z a l u k a z i n i a v i j w ɔ,17
+Ezalukazini_Avenue,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Ezalukazini_Avenue.wav,requires_native_validation,,ok,ɛ z i l ɛ kʰ a z i n j a v i ɲ ɛ,16
+Imvubu_Lane,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Imvubu_Lane\gt1.wav,requires_native_validation,,ok,i m v u ɓ u l ɛ n i,10
+Imvubu_Lane,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Imvubu_Lane\gt2.wav,requires_native_validation,,ok,i m f u ɓ ɔ f l a ɲ,10
+Imvubu_Lane,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Imvubu_Lane\gt3.wav,requires_native_validation,,ok,i m v u v ɔ l ɛ n d a,11
+Imvubu_Lane,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Imvubu_Lane\gt4.wav,requires_native_validation,,ok,i m v u ɓ u l a n i,10
+Imvubu_Lane,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Imvubu_Lane\gt5.wav,requires_native_validation,,ok,i m v u k u l ɛ ɡ a,10
+Imvubu_Lane,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Imvubu_Lane\gt6.wav,requires_native_validation,,ok,i m v u ɓ u l a n a,10
+Imvubu_Lane,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Imvubu_Lane.wav,requires_native_validation,,ok,ɛ n d͡z u ɓ u l ɛ n i,10
+Isandlwana_Street,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Isandlwana_Street\gt1.wav,requires_native_validation,,ok,ɛ s i n ɮ w a n a s tʰ r i tʰ s,15
+Isandlwana_Street,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Isandlwana_Street\gt2.wav,requires_native_validation,,ok,i s a n ɮ a n a s tʼ r ɛ tʼ i,14
+Isandlwana_Street,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Isandlwana_Street\gt3.wav,requires_native_validation,,ok,i s a n d͡ʒ w a n a s r i tʼ,13
+Isandlwana_Street,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Isandlwana_Street\gt4.wav,requires_native_validation,,ok,i s a n ɮ w a n a s ɬ r i tʼ,14
+Isandlwana_Street,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Isandlwana_Street.wav,requires_native_validation,,ok,i s a m ɔ w ɔ n ɛ s d r ɛ d a,15
+Khuzimpi_Shezi_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Khuzimpi_Shezi_Road\gt1.wav,requires_native_validation,,ok,kʰ u z i m pʼ i ɬ ɛ z ɛ r ɔ tʰ,14
+Khuzimpi_Shezi_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Khuzimpi_Shezi_Road\gt2.wav,requires_native_validation,,ok,k u n i m i f ɛ d͡z i ɓ ɔ l d ɛ,15
+Khuzimpi_Shezi_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Khuzimpi_Shezi_Road\gt3.wav,requires_native_validation,,ok,kʰ u z i m pʼ i ʃ ɛ z i r ɔ d a,15
+Khuzimpi_Shezi_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Khuzimpi_Shezi_Road\gt4.wav,requires_native_validation,,ok,k u z i m pʼ i ʃ ɛ z i r ɔ d i,15
+Khuzimpi_Shezi_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Khuzimpi_Shezi_Road\gt5.wav,requires_native_validation,,ok,kʰ i z i m tʼ i ɬ i l ɛ r tʰ a,14
+Khuzimpi_Shezi_Road,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Khuzimpi_Shezi_Road.wav,requires_native_validation,,ok,kʰ ɔ z ɛ m pʼ i ʃ ɛ z i v a ɛ d,15
+Mabele_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mabele_Road\gt1.wav,requires_native_validation,,ok,m a ɓ ɛ l ɛ r ɔ l ɛ,10
+Mabele_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mabele_Road\gt2.wav,requires_native_validation,,ok,m a m ɛ l ɛ r ɔ ɮ ɔ,10
+Mabele_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mabele_Road\gt3.wav,requires_native_validation,,ok,m a ɓ ɛ l a ɔ tʰ,8
+Mabele_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mabele_Road\gt4.wav,requires_native_validation,,ok,m a ɓ ɛ l ɛ w ɛ d a,10
+Mabele_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mabele_Road\gt5.wav,requires_native_validation,,ok,m a ɓ ɛ l ɛ r ɔ d ɛ,10
+Mabele_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mabele_Road\gt6.wav,requires_native_validation,,ok,m a n a l i r ɔ n d,10
+Mabele_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mabele_Road\gt7.wav,requires_native_validation,,ok,m a ɓ ɛ l ɛ r ɔ d ɛ,10
+Mabele_Road,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Mabele_Road.wav,requires_native_validation,,ok,n a tʰ r a d,6
+Mandlendlovu_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mandlendlovu_Road\gt1.wav,requires_native_validation,,ok,m a ɲ d͡ʒ ɛ n ɮ ɔ z u s d r ɔ n k ɛ,17
+Mandlendlovu_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mandlendlovu_Road\gt2.wav,requires_native_validation,,ok,m a ɡ ɛ n l ɔ m r ɔ k a,12
+Mandlendlovu_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mandlendlovu_Road\gt3.wav,requires_native_validation,,ok,m a ŋ ɡ ɛ n ɮ ɔ m ɔ r ɔ k ɔ,14
+Mandlendlovu_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mandlendlovu_Road\gt4.wav,requires_native_validation,,ok,m a n ɮ ɛ n ɮ ɔ v ɔ d a,12
+Mandlendlovu_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mandlendlovu_Road\gt5.wav,requires_native_validation,,ok,m a n ɮ ɛ n ɮ ɔ v ɔ r ɔ tʰ a,14
+Mandlendlovu_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mandlendlovu_Road\gt6.wav,requires_native_validation,,ok,m a n ɮ ɛ n ɮ ɔ v ɔ r ɔ tʰ a,14
+Mandlendlovu_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mandlendlovu_Road\gt7.wav,requires_native_validation,,ok,m a n ɮ ɛ n ɮ ɔ v u pʰ ɔ u k,14
+Mandlendlovu_Road,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Mandlendlovu_Road.wav,requires_native_validation,,ok,l a n d ɛ v i r u d,10
+Mbokodo_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mbokodo_Road\gt1.wav,requires_native_validation,,ok,m b ɔ k ɔ d ɛ r ɔ l a,11
+Mbokodo_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mbokodo_Road\gt2.wav,requires_native_validation,,ok,b a w ɔ tʼ ɔ tʰ ɓ a k ɔ d ɔ r ɔ tʰ a,17
+Mbokodo_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mbokodo_Road\gt3.wav,requires_native_validation,,ok,b ɔ m ɔ n tʼ ɛ n ǃ ɔ ɛ,11
+Mbokodo_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mbokodo_Road\gt4.wav,requires_native_validation,,ok,m b a w ɔ d ɔ r ɔ tʼ u,11
+Mbokodo_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mbokodo_Road\gt5.wav,requires_native_validation,,ok,u m ɔ k ɔ n tʼ ɔ l u ŋ ɡ a,13
+Mbokodo_Road,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Mbokodo_Road.wav,requires_native_validation,,ok,m ɓ ɔ kʰ u d u r a tʰ,10
+Mbonini_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mbonini_Road\gt1.wav,requires_native_validation,,ok,m b ɔ n i n a w k,9
+Mbonini_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mbonini_Road\gt2.wav,requires_native_validation,,ok,m b ɔ n i n i u w ɛ r d ɛ,13
+Mbonini_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mbonini_Road\gt3.wav,requires_native_validation,,ok,m b ɔ n i n i r ɔ d a,11
+Mbonini_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mbonini_Road\gt4.wav,requires_native_validation,,ok,u n ǃ ɔ n i n i ɓ r ɔ u l a,14
+Mbonini_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mbonini_Road\gt5.wav,requires_native_validation,,ok,i m b ɔ n i n i r ɔ tʰ a,12
+Mbonini_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mbonini_Road\gt6.wav,requires_native_validation,,ok,m b ɔ n i n i r ɔ d ɛ,11
+Mbonini_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mbonini_Road\gt7.wav,requires_native_validation,,ok,ɓ u n i n ɛ r ɔ d,9
+Mbonini_Road,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Mbonini_Road.wav,requires_native_validation,,ok,m b a n ɛ n i v a tʰ ɛ,11
+Mgaga_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mgaga_Road\gt1.wav,requires_native_validation,,ok,ɡ a k a r ɔ tʰ a,8
+Mgaga_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mgaga_Road\gt2.wav,requires_native_validation,,ok,m ɡ a k a r ɔ tʰ i,9
+Mgaga_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mgaga_Road\gt3.wav,requires_native_validation,,ok,ŋ ɡ a ɡ a r ɔ tʰ ɛ,9
+Mgaga_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mgaga_Road\gt4.wav,requires_native_validation,,ok,ŋ k a k a r ɔ tʰ i,9
+Mgaga_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mgaga_Road\gt5.wav,requires_native_validation,,ok,u m ɬ a k a d r ɔ n ǀ,11
+Mgaga_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mgaga_Road\gt6.wav,requires_native_validation,,ok,m ɡ a k a r ɔ tʰ i,9
+Mgaga_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mgaga_Road\gt7.wav,requires_native_validation,,ok,m ɡ a k a r ɛ l d,9
+Mgaga_Road,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Mgaga_Road.wav,requires_native_validation,,ok,tʼ a k ɛ ɓ a ɔ tʰ ɛ,9
+Mnyezane_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mnyezane_Road\gt1.wav,requires_native_validation,,ok,ɲ ɛ z a n ɛ r ɔ tʰ a,10
+Mnyezane_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mnyezane_Road\gt2.wav,requires_native_validation,,ok,m j ɛ z a n i ɬ ɔ l ɛ,11
+Mnyezane_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mnyezane_Road\gt3.wav,requires_native_validation,,ok,m i j ɛ z w a n ɛ r ɔ tʰ ɔ,13
+Mnyezane_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mnyezane_Road\gt4.wav,requires_native_validation,,ok,i ɲ ɛ z a n ɛ r u d a,11
+Mnyezane_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mnyezane_Road\gt5.wav,requires_native_validation,,ok,u ŋ ɡ ɛ z a m ɛ r ɔ ŋ ɡ a,13
+Mnyezane_Road,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Mnyezane_Road.wav,requires_native_validation,,ok,j ɛ z a i ŋ v a u tʰ ɛ,11
+Mpevu_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mpevu_Road\gt1.wav,requires_native_validation,,ok,ɓ ɛ m ɔ b,5
+Mpevu_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mpevu_Road\gt2.wav,requires_native_validation,,ok,pʼ a m v u r ɔ tʰ,8
+Mpevu_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mpevu_Road\gt3.wav,requires_native_validation,,ok,m b a v u r ɔ tʰ i,9
+Mpevu_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mpevu_Road\gt4.wav,requires_native_validation,,ok,pʼ ɛ z ɔ s ǀ r ɔ l d,10
+Mpevu_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mpevu_Road\gt5.wav,requires_native_validation,,ok,n v ɛ v ɔ l ɔ l a,9
+Mpevu_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mpevu_Road\gt6.wav,requires_native_validation,,ok,m pʼ i v ɔ r ɔ d a,9
+Mpevu_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mpevu_Road\gt7.wav,requires_native_validation,,ok,m pʼ ɛ v u r ɔ k u d i,11
+Mpevu_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Mpevu_Road\gt8.wav,requires_native_validation,,ok,m pʼ ɛ v u ǃ r ɔ d a,10
+Mpevu_Road,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Mpevu_Road.wav,requires_native_validation,,ok,m pʰ i l u r a l d,9
+Msobho_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Msobho_Road\gt1.wav,requires_native_validation,,ok,m s ɔ pʰ ɔ v,6
+Msobho_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Msobho_Road\gt2.wav,requires_native_validation,,ok,n s ɔ k a u tʰ,7
+Msobho_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Msobho_Road\gt3.wav,requires_native_validation,,ok,m z ɔ r ɓ a r ɔ pʰ a,10
+Msobho_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Msobho_Road\gt4.wav,requires_native_validation,,ok,m s ɔ ɓ ɔ r ɔ k i,9
+Msobho_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Msobho_Road\gt5.wav,requires_native_validation,,ok,u z ɔ ɓ ɔ r ɔ tʰ i,9
+Msobho_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Msobho_Road\gt6.wav,requires_native_validation,,ok,ɓ u ɬ ɔ m ɓ ɔ r u ɡ a,11
+Msobho_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Msobho_Road\gt7.wav,requires_native_validation,,ok,m ɛ s ɔ r ɓ ɔ r ɔ tʰ,10
+Msobho_Road,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Msobho_Road.wav,requires_native_validation,,ok,tʼ a pʰ a ɓ a i,7
+Ngilosi_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Ngilosi_Road\gt1.wav,requires_native_validation,,ok,ɡ i l ɔ s i r ɔ tʰ w a,11
+Ngilosi_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Ngilosi_Road\gt2.wav,requires_native_validation,,ok,ŋ ɡ i l u s i r ɔ l tʼ,11
+Ngilosi_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Ngilosi_Road\gt3.wav,requires_native_validation,,ok,ŋ d i l ɔ s i w ɛ l i,11
+Ngilosi_Road,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Ngilosi_Road.wav,requires_native_validation,,ok,ŋ ɡ ɛ l a s i v a j ɔ,11
+Ngqwele_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Ngqwele_Road\gt1.wav,requires_native_validation,,ok,u ŋ ɡ w ɛ l ɛ r ɛ d a,11
+Ngqwele_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Ngqwele_Road\gt2.wav,requires_native_validation,,ok,m ǀ w ɛ l ɛ r ɔ tʰ a,10
+Ngqwele_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Ngqwele_Road\gt3.wav,requires_native_validation,,ok,ǃ w a l ɛ r ɔ tʰ ɔ,9
+Ngqwele_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Ngqwele_Road\gt4.wav,requires_native_validation,,ok,m ǃ ɛ l ɛ r u d i,9
+Ngqwele_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Ngqwele_Road\gt5.wav,requires_native_validation,,ok,u ɡ w ɛ l ɛ r ɔ l a,10
+Ngqwele_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Ngqwele_Road\gt6.wav,requires_native_validation,,ok,m a j ɛ l ɛ r ɔ pʰ a,10
+Ngqwele_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Ngqwele_Road\gt7.wav,requires_native_validation,,ok,u n ǃ w ɛ l ɛ r ɔ d,10
+Ngqwele_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Ngqwele_Road\gt8.wav,requires_native_validation,,ok,u m ǃ ɛ l ɛ tʰ r ɔ u ŋ ǀ ɛ,13
+Ngqwele_Road,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Ngqwele_Road.wav,requires_native_validation,,ok,kʰ w a r a d ɛ,7
+Njokweni_Crescent,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Njokweni_Crescent\gt1.wav,requires_native_validation,,ok,n d͡ʒ ɔ k w ɛ i n i ǀ r i s ɛ n t͡sʼ ɔ,17
+Njokweni_Crescent,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Njokweni_Crescent\gt2.wav,requires_native_validation,,ok,ɲ d͡ʒ ɔ k w ɛ n i ǀ r ɛ s ɛ n tʼ,15
+Njokweni_Crescent,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Njokweni_Crescent\gt3.wav,requires_native_validation,,ok,ɲ d͡ʒ ɛ k w ɛ n i kʰ u s ɛ n ɛ,14
+Njokweni_Crescent,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Njokweni_Crescent\gt4.wav,requires_native_validation,,ok,u ɲ d͡ʒ ɔ k w ɛ n i ǀ i s ɛ n d͡z,15
+Njokweni_Crescent,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Njokweni_Crescent\gt5.wav,requires_native_validation,,ok,d͡ʒ ɔ k w ɛ n i kʰ r i s ɛ n d ɛ,15
+Njokweni_Crescent,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Njokweni_Crescent.wav,requires_native_validation,,ok,ɲ d͡ʒ ɛ ǀ w i n i kʰ w ɛ s ɛ n tʼ i,16
+Ntunjambili_Street,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Ntunjambili_Street\gt1.wav,requires_native_validation,,ok,n tʼ ɔ ɲ d͡ʒ a m b ɛ l i s tʼ r tʰ ɛ,16
+Ntunjambili_Street,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Ntunjambili_Street\gt2.wav,requires_native_validation,,ok,n d ɔ ɲ d͡ʒ ɛ m b i n i s tʼ r a tʼ ɛ s,18
+Ntunjambili_Street,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Ntunjambili_Street\gt3.wav,requires_native_validation,,ok,ǃ u ɲ d͡ʒ a m b i l ɛ s tʰ ɛ d ɛ,15
+Ntunjambili_Street,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Ntunjambili_Street.wav,requires_native_validation,,ok,n a m d͡ʒ a m a l i s d r ɛ tʼ i,15
+Phezukomkhono_Lane,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Phezukomkhono_Lane\gt1.wav,requires_native_validation,,ok,tʰ ɛ z w ɔ m kʰ ɔ n ɔ l ɛ j a,14
+Phezukomkhono_Lane,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Phezukomkhono_Lane\gt2.wav,requires_native_validation,,ok,ɛ z ɔ k ɔ m k ɔ n ɔ l ɛ n i,14
+Phezukomkhono_Lane,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Phezukomkhono_Lane\gt3.wav,requires_native_validation,,ok,ɛ z ɔ w ɔ m kʰ ɔ l ɔ l w ɛ j ɛ,15
+Phezukomkhono_Lane,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Phezukomkhono_Lane\gt4.wav,requires_native_validation,,ok,pʰ ɛ z u w ɔ m kʰ ɔ n ɔ l i ɡ ɔ,15
+Phezukomkhono_Lane,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Phezukomkhono_Lane\gt5.wav,requires_native_validation,,ok,pʰ ɛ z ɔ k ɔ m kʰ ɔ n ɔ l a n a,15
+Phezukomkhono_Lane,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Phezukomkhono_Lane\gt6.wav,requires_native_validation,,ok,pʰ ɛ z ɔ k w a m kʰ ɔ n ɔ l ɛ n a,16
+Phezukomkhono_Lane,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Phezukomkhono_Lane\gt7.wav,requires_native_validation,,ok,pʰ ɛ z u k ɔ m kʰ ɔ n ɔ l ɛ n i,15
+Phezukomkhono_Lane,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Phezukomkhono_Lane\gt8.wav,requires_native_validation,,ok,pʰ ɛ z u ŋ k ɔ m ǀ ɔ n ɔ l i n a,16
+Phezukomkhono_Lane,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Phezukomkhono_Lane.wav,requires_native_validation,,ok,i s ɛ z i kʰ ɔ m kʰ a n ɛ l ɛ j i,16
+Phila_Ndwandwe_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Phila_Ndwandwe_Road\gt1.wav,requires_native_validation,,ok,s i l a n d w a n d w ɛ ǀ,13
+Phila_Ndwandwe_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Phila_Ndwandwe_Road\gt2.wav,requires_native_validation,,ok,pʰ i l a ŋ ɡ a n ɛ r u tʰ,12
+Phila_Ndwandwe_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Phila_Ndwandwe_Road\gt3.wav,requires_native_validation,,ok,pʰ i l a ŋ ɡ a l ɛ h ɔ tʰ,12
+Phila_Ndwandwe_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Phila_Ndwandwe_Road\gt4.wav,requires_native_validation,,ok,pʰ i l a ŋ ɡ w a n d ɔ ɛ r u m a,16
+Phila_Ndwandwe_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Phila_Ndwandwe_Road\gt5.wav,requires_native_validation,,ok,pʰ i l a n tʼ w a n d ɛ r ɔ tʰ ɔ,15
+Phila_Ndwandwe_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Phila_Ndwandwe_Road\gt6.wav,requires_native_validation,,ok,ǃ i l a n d w a n d ɛ ɔ l a,14
+Phila_Ndwandwe_Road,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Phila_Ndwandwe_Road.wav,requires_native_validation,,ok,i l a n d w ɔ n w a r a d ɛ,14
+Qhude_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Qhude_Road\gt1.wav,requires_native_validation,,ok,ǃ ɔ d ɛ r ɔ tʰ ɛ,8
+Qhude_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Qhude_Road\gt2.wav,requires_native_validation,,ok,u d ɛ r ɔ l a,7
+Qhude_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Qhude_Road\gt3.wav,requires_native_validation,,ok,k ɔ d ɛ r ɔ tʰ,7
+Qhude_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Qhude_Road\gt4.wav,requires_native_validation,,ok,ǃ ɔ d ɛ r ɔ tʰ,7
+Qhude_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Qhude_Road\gt5.wav,requires_native_validation,,ok,k a u d ɛ r ɔ tʰ u,9
+Qhude_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Qhude_Road\gt6.wav,requires_native_validation,,ok,k u ɮ ɛ s ǀ r ɔ d ɛ,10
+Qhude_Road,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Qhude_Road.wav,requires_native_validation,,ok,h u d r a d,6
+Sankotshe_Avenue,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Sankotshe_Avenue\gt1.wav,requires_native_validation,,ok,f a ŋ ɡ ɔ d͡ʒ ɛ v i ɲ ɛ,11
+Sankotshe_Avenue,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Sankotshe_Avenue\gt2.wav,requires_native_validation,,ok,s a ŋ k ɔ n d ɛ a z i ŋ ɡ i w ɛ,16
+Sankotshe_Avenue,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Sankotshe_Avenue\gt3.wav,requires_native_validation,,ok,s a ŋ ǃ ɔ n t͡ʃʼ ɛ v ɛ n i s a,14
+Sankotshe_Avenue,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Sankotshe_Avenue\gt4.wav,requires_native_validation,,ok,s a ŋ k ɔ t͡ʃʼ ɛ a v i n ɛ,12
+Sankotshe_Avenue,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Sankotshe_Avenue\gt5.wav,requires_native_validation,,ok,s a ŋ ɡ u t͡ʃʼ ɛ a ɓ i ɲ u ɡ a,14
+Sankotshe_Avenue,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Sankotshe_Avenue.wav,requires_native_validation,,ok,tʼ a ŋ kʰ a ɔ t͡ʃʼ u a v i ɲ ɛ,13
+Sga_Ngcobo_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Sga_Ngcobo_Road\gt1.wav,requires_native_validation,,ok,k a ɡ ɛ k ɔ r ɔ,8
+Sga_Ngcobo_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Sga_Ngcobo_Road\gt2.wav,requires_native_validation,,ok,s k a n d͡z ɔ k ɔ r ɔ tʰ ɛ,12
+Sga_Ngcobo_Road,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Sga_Ngcobo_Road.wav,requires_native_validation,,ok,s tʰ a i ŋ kʰ ɔ ɓ ɔ l r a d,13
+Sigonyela_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Sigonyela_Road\gt1.wav,requires_native_validation,,ok,s i k ɔ ɲ ɛ l a r ɔ l,11
+Sigonyela_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Sigonyela_Road\gt2.wav,requires_native_validation,,ok,s i k ɔ ɲ ɛ l a w ɛ l a,12
+Sigonyela_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Sigonyela_Road\gt3.wav,requires_native_validation,,ok,u ɡ ɔ ɲ ɛ l a r ɔ t͡ʃʼ a,11
+Sigonyela_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Sigonyela_Road\gt4.wav,requires_native_validation,,ok,s i ŋ ɡ ɔ ɲ ɛ l a ɔ ɮ w a,13
+Sigonyela_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Sigonyela_Road\gt5.wav,requires_native_validation,,ok,s i k ɔ ɲ ɛ l a l w ɛ d a,13
+Sigonyela_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Sigonyela_Road\gt6.wav,requires_native_validation,,ok,u ɡ ɔ ɲ ɛ l a r ɔ t͡ʃʼ a,11
+Sigonyela_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Sigonyela_Road\gt7.wav,requires_native_validation,,ok,s i k ɔ ɲ ɛ l a r u d a,12
+Sigonyela_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Sigonyela_Road\gt8.wav,requires_native_validation,,ok,s ǃ ɔ ɲ ɛ l a r ɔ tʰ ɔ,11
+Sigonyela_Road,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Sigonyela_Road.wav,requires_native_validation,,ok,i s ɛ k i n i ɛ l ɛ r a d,13
+Sinqandu_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Sinqandu_Road\gt1.wav,requires_native_validation,,ok,s i ŋ ǃ a n d ɔ r ɔ tʰ a,12
+Sinqandu_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Sinqandu_Road\gt2.wav,requires_native_validation,,ok,s i n ǃ a n d u ɔ d ɔ,11
+Sinqandu_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Sinqandu_Road\gt3.wav,requires_native_validation,,ok,i ǃ a l ɔ tʰ ɔ,7
+Sinqandu_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Sinqandu_Road\gt4.wav,requires_native_validation,,ok,s i ŋ ǃ a n d u r ɔ d i,12
+Sinqandu_Road,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Sinqandu_Road.wav,requires_native_validation,,ok,s ɛ n ǁ a w n d i r a w d,13
+Umdoni_Street,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Umdoni_Street\gt1.wav,requires_native_validation,,ok,u m d ɔ n i s ǀ r i tʰ ɔ,12
+Umdoni_Street,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Umdoni_Street\gt2.wav,requires_native_validation,,ok,u m tʼ ɔ n i s tʰ r ɛ tʼ ɛ,12
+Umdoni_Street,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Umdoni_Street\gt3.wav,requires_native_validation,,ok,u m d u ɲ ɛ s tʰ r i tʼ ɛ,12
+Umdoni_Street,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Umdoni_Street\gt4.wav,requires_native_validation,,ok,u m d u n i s tʰ r i tʼ,11
+Umdoni_Street,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Umdoni_Street\gt5.wav,requires_native_validation,,ok,ɔ m d u n ɛ s ǀ r a tʼ,11
+Umdoni_Street,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Umdoni_Street\gt6.wav,requires_native_validation,,ok,u m tʼ ɔ n i s tʼ r i s a,12
+Umdoni_Street,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Umdoni_Street.wav,requires_native_validation,,ok,u n d ɔ n i s d r i k a,12
+Umgeni_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Umgeni_Road\gt1.wav,requires_native_validation,,ok,u m ŋ ɡ ɛ n i r ɔ ŋ k u,12
+Umgeni_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Umgeni_Road\gt2.wav,requires_native_validation,,ok,u m ɡ ɛ n i r ɔ k,9
+Umgeni_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Umgeni_Road\gt3.wav,requires_native_validation,,ok,u m ŋ ɡ ɛ n i r ɔ l u,11
+Umgeni_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Umgeni_Road\gt4.wav,requires_native_validation,,ok,u m ŋ ɡ ɛ n i r ɔ ŋ k u,12
+Umgeni_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Umgeni_Road\gt5.wav,requires_native_validation,,ok,u m ŋ ɡ ɛ n i w ɛ u tʰ a,12
+Umgeni_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Umgeni_Road\gt6.wav,requires_native_validation,,ok,u m b i n i r ɔ tʰ u,10
+Umgeni_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Umgeni_Road\gt7.wav,requires_native_validation,,ok,u m i ŋ ɡ ɛ n i r ɔ tʰ ɔ,12
+Umgeni_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Umgeni_Road\gt8.wav,requires_native_validation,,ok,ɔ m ɡ ɛ n i r ɔ d ɛ,10
+Umgeni_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Umgeni_Road\gt9.wav,requires_native_validation,,ok,ɔ m ŋ ɡ ɛ n ɛ r ɔ u tʰ,11
+Umgeni_Road,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Umgeni_Road.wav,requires_native_validation,,ok,ɔ ŋ ɡ ɛ n i v a d ɛ,10
+Umsimbithi_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Umsimbithi_Road\gt1.wav,requires_native_validation,,ok,u m s i m b i tʰ ɛ w ɛ d,12
+Umsimbithi_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Umsimbithi_Road\gt2.wav,requires_native_validation,,ok,w ɛ s i n v i tʼ ɛ r ɔ d ɔ,13
+Umsimbithi_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Umsimbithi_Road\gt3.wav,requires_native_validation,,ok,ɔ m s i m b i tʰ ɛ r ɔ tʰ,12
+Umsimbithi_Road,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Umsimbithi_Road.wav,requires_native_validation,,ok,a z ɛ m b ɛ k i v a ɛ,11
+Umzimvubu_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Umzimvubu_Road\gt1.wav,requires_native_validation,,ok,u m z i m v u k u r ɔ tʰ ɔ,13
+Umzimvubu_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Umzimvubu_Road\gt2.wav,requires_native_validation,,ok,k u m z i m v u ɓ u ɬ ɔ tʰ ɔ,14
+Umzimvubu_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Umzimvubu_Road\gt3.wav,requires_native_validation,,ok,u m z i m v u ɓ u d r ɔ u l a,15
+Umzimvubu_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Umzimvubu_Road\gt4.wav,requires_native_validation,,ok,k u m n i m v u ɓ u d r ɔ n ɡ,15
+Umzimvubu_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Umzimvubu_Road\gt5.wav,requires_native_validation,,ok,u m z i m v u ɓ ɔ r ɔ l a,13
+Umzimvubu_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Umzimvubu_Road\gt6.wav,requires_native_validation,,ok,u m z i m v u k u r ɔ d ɛ,13
+Umzimvubu_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Umzimvubu_Road\gt7.wav,requires_native_validation,,ok,u m v i m v u ɓ u r ɔ d i,13
+Umzimvubu_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Umzimvubu_Road\gt8.wav,requires_native_validation,,ok,u m z i m v u ɓ u ɓ u ɡ a,13
+Umzimvubu_Road,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Umzimvubu_Road.wav,requires_native_validation,,ok,a m s i m v i ɓ i r a tʰ ɛ,13
+Zigqaje_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Zigqaje_Road\gt1.wav,requires_native_validation,,ok,z i ǃ a d͡ʒ ɛ r u pʰ a,10
+Zigqaje_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Zigqaje_Road\gt2.wav,requires_native_validation,,ok,n i ǀ a d͡ʒ ɛ r ɔ n l,10
+Zigqaje_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Zigqaje_Road\gt3.wav,requires_native_validation,,ok,z ɛ ǃ a d ɛ ɔ d ɔ,9
+Zigqaje_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Zigqaje_Road\gt4.wav,requires_native_validation,,ok,z i ǃ a tʰ ɛ r ɛ d a,10
+Zigqaje_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Zigqaje_Road\gt5.wav,requires_native_validation,,ok,z ɛ ǃ a d ɛ ɔ d ɔ,9
+Zigqaje_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Zigqaje_Road\gt6.wav,requires_native_validation,,ok,z i ǃ a d ɛ ɔ tʰ,8
+Zigqaje_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Zigqaje_Road\gt7.wav,requires_native_validation,,ok,z i ǃ a n d͡ʒ ɛ r ɔ d a,11
+Zigqaje_Road,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Zigqaje_Road.wav,requires_native_validation,,ok,z ɛ kʰ ɛ tʰ r a d,8
+Zimbali_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Zimbali_Road\gt1.wav,requires_native_validation,,ok,z i m b a l i w ɛ tʰ a,11
+Zimbali_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Zimbali_Road\gt2.wav,requires_native_validation,,ok,z ɛ m b a l i r ɔ d ɛ,11
+Zimbali_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Zimbali_Road\gt3.wav,requires_native_validation,,ok,z i m b a l i r ɔ u d,11
+Zimbali_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Zimbali_Road\gt4.wav,requires_native_validation,,ok,z i m b a l ɛ r ɔ d,10
+Zimbali_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Zimbali_Road\gt5.wav,requires_native_validation,,ok,ɛ z i m b a l i r ɔ d ɛ,12
+Zimbali_Road,native,C:\Users\Sam\Documents\NLP_Projects\recordings\ground_truth\Zimbali_Road\gt6.wav,requires_native_validation,,ok,z i m b a l ɛ r ɔ d,10
+Zimbali_Road,apple_maps,C:\Users\Sam\Documents\NLP_Projects\recordings\wav_system\Zimbali_Road.wav,requires_native_validation,,ok,z ɛ m l i v a j ɔ,9

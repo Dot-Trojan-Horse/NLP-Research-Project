@@ -1,0 +1,34 @@
+street,candidate_dictionary_phone_sequence,ground_truth_phone_sequence,validation_status
+Baphelabantu_Street,,,requires_native_validation
+Chakide_Road,,,requires_native_validation
+Dlangisa_Avenue,,,requires_native_validation
+Emthethweni_Road,emthethweni: E m t_h E t_h w E n i,,requires_native_validation
+Ezalukazini_Avenue,,,requires_native_validation
+Imvubu_Lane,imvubu: i m v u b_< u,,requires_native_validation
+Isandlwana_Street,,,requires_native_validation
+Khuzimpi_Shezi_Road,,,requires_native_validation
+Mabele_Road,,,requires_native_validation
+Mandlendlovu_Road,,,requires_native_validation
+Mbokodo_Road,,,requires_native_validation
+Mbonini_Road,,,requires_native_validation
+Mgaga_Road,,,requires_native_validation
+Mnyezane_Road,,,requires_native_validation
+Mpevu_Road,,,requires_native_validation
+Msobho_Road,,,requires_native_validation
+Ngilosi_Road,,,requires_native_validation
+Ngqwele_Road,,,requires_native_validation
+Njokweni_Crescent,,,requires_native_validation
+Ntunjambili_Street,,,requires_native_validation
+Phezukomkhono_Lane,,,requires_native_validation
+Phila_Ndwandwe_Road,,,requires_native_validation
+Qhude_Road,,,requires_native_validation
+Sankotshe_Avenue,,,requires_native_validation
+Sga_Ngcobo_Road,,,requires_native_validation
+Sigonyela_Road,,,requires_native_validation
+Sinqandu_Road,,,requires_native_validation
+Umdoni_Street,,,requires_native_validation
+Umgeni_Road,,,requires_native_validation
+Umsimbithi_Road,,,requires_native_validation
+Umzimvubu_Road,,,requires_native_validation
+Zigqaje_Road,,,requires_native_validation
+Zimbali_Road,,,requires_native_validation
